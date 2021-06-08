@@ -1,6 +1,6 @@
 ## CV
 Mani sauc *Ralfs*. Es mācos grupā *DP1-2*.      
-Man patīk šis citāts**Vienīgais, ko mēs varam iedot otram ir mūsu dzīves pieredze.**.  
+Man patīk šis citāts **Vienīgais, ko mēs varam iedot otram ir mūsu dzīves pieredze.**.  
 ``Lieto `print('Man ir 17 gadi')` pythona lai pythons izvada cik man ir gadi.``
 Man ļoti patīk futbols un ziedi.  
 [Skaista futbola bilde](https://www.wallpapertip.com/wmimgs/228-2281877_best-soccer-wallpapers.jpg)
