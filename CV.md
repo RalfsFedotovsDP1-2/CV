@@ -9,7 +9,7 @@ Mob. tālr.: +371 26615257
 E-pasts: ralfs.fedotovs70@gmail.com
 
 
-Fotogrāfija: ![Ralfs's face](https://cdn.discordapp.com/attachments/668119108369383450/851821143635656734/Ralfs.jpg)
+Fotogrāfija: [Ralfs's face](https://cdn.discordapp.com/attachments/668119108369383450/851821143635656734/Ralfs.jpg)
 
 ## Izglitība
 *Ķekavas vidusskola 2012-2020
