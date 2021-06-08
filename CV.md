@@ -3,7 +3,7 @@ Mani sauc *Ralfs*. Es mācos grupā *DP1-2*.
 Man patīk šis citāts**Vienīgais, ko mēs varam iedot otram ir mūsu dzīves pieredze.**.  
 ``Lieto `print('Man ir 17 gadi')` pythona lai pythons izvada cik man ir gadi.``
 Man ļoti patīk futbols un ziedi.  
-![Skaista futbola bilde](https://www.google.com/search?q=soccer+pictures&tbm=isch&ved=2ahUKEwiH0-XF74fxAhUDtYsKHXRxDEAQ2-cCegQIABAA&oq=soccer+pictures&gs_lcp=CgNpbWcQAzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzoGCAAQBxAeOggIABAHEB4QEzoCCABQphZYoiNg5SRoAHAAeACAAXeIAYQGkgEDOS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=N0y_YMfbHIPqrgT04rGABA&bih=969&biw=1920#imgrc=rhsSgBSfdJLdlM).  
+![Skaista futbola bilde](https://cdn.discordapp.com/attachments/668119108369383450/851782232829984800/futbols.jpg).  
 [Ziedu bilde](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMr5USQVQkNb7u25TEZKv0BIvQdEu1Fehwhg&usqp=CAU).  
 Mans miļakais priekšmets ir Datorsistēmas un datortīkli. Šeit jūs varat redzet manu vertejumi tabulu par janvari:  
  **Janvaris**  
