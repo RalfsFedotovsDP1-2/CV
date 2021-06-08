@@ -1,15 +1,40 @@
-## CV
-Mani sauc *Ralfs*. Es mācos grupā *DP1-2*.      
-Man patīk šis citāts **Vienīgais, ko mēs varam iedot otram ir mūsu dzīves pieredze.**.  
-``Lieto `print('Man ir 17 gadi')` pythona lai pythons izvada cik man ir gadi.``
-Man ļoti patīk futbols un ziedi.  
-[Futbola bilde](https://www.wallpapertip.com/wmimgs/228-2281877_best-soccer-wallpapers.jpg)
-.  
-[Ziedu bilde](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMr5USQVQkNb7u25TEZKv0BIvQdEu1Fehwhg&usqp=CAU).  
-Mans miļākais priekšmets ir Datorsistēmas un datortīkli. Šeit jūs varat redzēt manu vērtējumu tabulu par janvāri:  
- **Janvāris**  
-1. 8  
-2. 7  
-3. 7  
 
-Mans mīļākais emoji ir 😅:
+# CV
+Ralfs Fedotovs (13-02-2004)
+
+Adrese: Krizantēmu iela 9, Katlakalns, Rīga LV-2111
+
+Mob. tālr.: +371 26615257
+
+E-pasts: ralfs.fedotovs70@gmail.com
+
+
+Fotogrāfija: ![Ralfs's face](https://cdn.discordapp.com/attachments/668119108369383450/851821143635656734/Ralfs.jpg)
+
+## Izglitība
+*Ķekavas vidusskola 2012-2020
+
+*Pamatizglītība
+
+*PIKC Rīgas Valsts tehnikums 2020.g līdz šai dienai
+
+*Programmēšanas tehniķis 1.kurss.
+
+
+## Sasniegumi
+Man ir sasniegumi futbola. Es spēlēju komanda RFS. 2019. gadā mēs dabūjam 2.vietu Latvijas Čempionāta. 2019. Vēl mēs dabūjam daudz medaļas Starptautiskajās sacensības. Mēs ar komandu esam bijuši dažnedažādākajās valstīs.
+## Hobiji
+Makšķerēšanā, skriešanā, futbols, datorspēles, ģeogrāfija.
+Man ļoti patīk inženier zinātne un datorzinātne.
+
+## Pieredze programmēšana
+Pieredzes programmēšana ir ļoti maza. Saprotu Python un nedaudz c++
+
+
+## Valodas prasmes
+|      Valoda      |     Prasmes līmenis   |
+| ------------     | --------------------- |
+|  1. Krievu val.  |        Dzimtā         |
+|  2. Angļu val.   |     Vidējais zināšanas|
+|  3. Latv. val.   |     Labas zināšanas   |
+
