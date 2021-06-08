@@ -12,4 +12,4 @@ Mans miļakais priekšmets ir Datorsistēmas un datortīkli. Šeit jūs varat re
 2. 7  
 3. 7  
 
-Mans mīļākais emoji ir :blush:
+Mans mīļākais emoji ir 😅:
